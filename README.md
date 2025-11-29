@@ -73,7 +73,7 @@ A single SQL query that generates a **ranked performance leaderboard** of all ho
 
 ---
 
-### ⚙️ How to Use This Repo
+## ⚙️ How to Use This Repo
 
 **1️⃣ Clone the Repository**
 ```bash
@@ -100,12 +100,19 @@ Open any file in the ```Daily_Challenges/``` folder to view:
 
 ---
 
-### 🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 A huge thank you to **Indian Data Club** for the structured SQL curriculum and **DPDZero** for sponsoring this 21-day learning challenge.
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/tharunpranavt)
